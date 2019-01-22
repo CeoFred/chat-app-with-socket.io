@@ -13,6 +13,9 @@ console.log('Connected listeing on 3000');
 app.get('/',function(req,res){
     res.sendFile(__dirname+ '/index.html');
 });
+app.get('/join',function(req,res){
+    res.sendFile(__dirname+ '/join.html');
+});
 
 
 io.sockets.on('connection',function(socket){

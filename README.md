@@ -1,7 +1,6 @@
 Chat App Using Socket.io
 ========================
-This is a simple app that can be used to communicate in real time built with socket.io .
-Features includes : RealTime, see who is connected to your server, watch who is typing and view messages sent by each user.
+This used to be a simple chat app, but would turn into a world wide tool,so this project enables people to join a live coding group and also exchange messages in chat for, i hope for the best on this one.
 
 Get started
 ===========
